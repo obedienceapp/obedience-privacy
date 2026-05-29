@@ -1,12 +1,12 @@
 # Privacy Policy for Obedience
 
-**Last updated:** 29 May 2026
+**Last updated:** 30 May 2026
 
 This policy explains what information Obedience ("the app", "we", "our") collects, how it is used, and the choices you have. Obedience is published by Aidan Hyland ("we"), based in the United Kingdom. If you have any questions about this policy you can contact us at obedienceapplication@gmail.com.
 
 ## Summary
 
-Obedience is a local-first app. By default, everything you create — your prayer rule, daily checks, workout history, walks, push-ups, bookmarks — is stored only on your device. We do not run analytics, advertising, or third-party tracking inside the app. Some features are optional and clearly require third-party services: cloud backup and account-based password reset (Supabase), and the Obedience Pro subscription (your device's app store — Apple or Google Play — and RevenueCat). Location data is only used while you are actively tracking a walk or run.
+Obedience is a local-first app. By default, everything you create — your prayer rule, daily checks, workout history, push-ups, bookmarks — is stored only on your device. We do not run analytics, advertising, or third-party tracking inside the app. Some features are optional and clearly require third-party services: cloud backup and account-based password reset (Supabase), and the Obedience Pro subscription (your device's app store — Apple or Google Play — and RevenueCat).
 
 ## What information we collect
 
@@ -16,7 +16,6 @@ The following data is created and stored locally on your device, in the app's ow
 
 - Daily rule check-ins, custom prayer rules, personal intercessions, occasional prayers
 - Strength training sessions, sets, reps, weights, and program configuration
-- Walks and runs, including distance, pace, and route samples used to compute them
 - Push-up counter sessions and history
 - Quick HIIT workouts and saved workouts
 - Bible bookmarks, scheduled notifications, app settings and preferences
@@ -32,15 +31,9 @@ Account creation is optional. If you choose to create one for cloud backup or pa
 
 Cloud backup is optional and off until you create an account and explicitly use it. When enabled, the app uploads a single snapshot of the data listed above ("Stored only on your device") to your account. The most recent snapshot replaces the previous one. If you delete your account, the snapshot is removed.
 
-### Collected only while tracking a walk or run
-
-The Walk and Run tracker uses your device's location services to measure distance and pace. Location data is processed on your device. It is included in your saved walk/run history (alongside your other local data). Location samples are not transmitted to any third party. If cloud backup is enabled, your saved walk/run summaries (distance, pace, time) are included in the backup snapshot like any other data.
-
-You can revoke location permission at any time in your device settings.
-
 ### Collected only if you start a free trial or subscribe to Obedience Pro
 
-Obedience Pro is an optional paid subscription that unlocks the Physical side of the app (workouts, walks/runs, push-ups, HIIT, custom programs). The spiritual side of the app is always free. If you start the free trial or purchase a subscription:
+Obedience Pro is an optional paid subscription that unlocks the Physical side of the app (workouts, push-ups, HIIT, stretching, custom programs). The spiritual side of the app is always free. If you start the free trial or purchase a subscription:
 
 - **Apple** (on iPhone/iPad) or **Google Play** (on Android) processes the payment and manages the subscription on your behalf. We never see your payment card details, your Apple or Google account, or your billing address. The store may share an anonymous transaction identifier with us so we can confirm your subscription status.
 - **RevenueCat**, our subscription management provider, receives an anonymous identifier for your device, your subscription status (in trial, active, expired, cancelled), which product you purchased, and your country (derived from the app store). RevenueCat does not see any other content in the app — no prayer rule, no workout history, no bookmarks, no email address.
@@ -79,7 +72,7 @@ You can:
 - **Sign out** of your account, which keeps the snapshot on the server but disconnects your device.
 - **Delete your account**, which removes both the account and the cloud backup snapshot. This is available in Settings → Cloud Backup → Delete Account.
 - **Cancel or manage your subscription** from Settings → Manage Subscription within the app (only visible while subscribed), or from your device's standard subscription management screen (iPhone: Settings → [your Apple ID] → Subscriptions; Android: Play Store → profile → Payments & subscriptions → Subscriptions).
-- **Revoke location, notification, or other system permissions** at any time from your device settings.
+- **Revoke notification or other system permissions** at any time from your device settings.
 - **Request a copy of your data** by contacting obedienceapplication@gmail.com. Because the app stores everything locally, the most complete copy of your data is the one already on your device.
 
 If you are based in the EU/UK, you also have rights under the GDPR / UK GDPR including the right to access, correct, restrict, and object to processing of your personal data, and to lodge a complaint with your local data protection authority.
