@@ -1,12 +1,12 @@
 # Privacy Policy for Obedience
 
-**Last updated:** 13 May 2026
+**Last updated:** 29 May 2026
 
 This policy explains what information Obedience ("the app", "we", "our") collects, how it is used, and the choices you have. Obedience is published by Aidan Hyland ("we"), based in the United Kingdom. If you have any questions about this policy you can contact us at obedienceapplication@gmail.com.
 
 ## Summary
 
-Obedience is a local-first app. By default, everything you create — your prayer rule, daily checks, workout history, walks, push-ups, bookmarks — is stored only on your device. We do not run analytics, advertising, or third-party tracking inside the app. Some features are optional and clearly require third-party services: cloud backup and account-based password reset (Supabase), and the Obedience Pro subscription (Apple and RevenueCat). Location data is only used while you are actively tracking a walk or run.
+Obedience is a local-first app. By default, everything you create — your prayer rule, daily checks, workout history, walks, push-ups, bookmarks — is stored only on your device. We do not run analytics, advertising, or third-party tracking inside the app. Some features are optional and clearly require third-party services: cloud backup and account-based password reset (Supabase), and the Obedience Pro subscription (your device's app store — Apple or Google Play — and RevenueCat). Location data is only used while you are actively tracking a walk or run.
 
 ## What information we collect
 
@@ -42,8 +42,8 @@ You can revoke location permission at any time in your device settings.
 
 Obedience Pro is an optional paid subscription that unlocks the Physical side of the app (workouts, walks/runs, push-ups, HIIT, custom programs). The spiritual side of the app is always free. If you start the free trial or purchase a subscription:
 
-- **Apple** processes the payment and manages the subscription on your behalf. We never see your payment card details, your Apple ID, or your billing address. Apple may share an anonymous transaction identifier with us so we can confirm your subscription status.
-- **RevenueCat**, our subscription management provider, receives an anonymous identifier for your device, your subscription status (in trial, active, expired, cancelled), which product you purchased, and your country (derived from the App Store). RevenueCat does not see any other content in the app — no prayer rule, no workout history, no bookmarks, no email address.
+- **Apple** (on iPhone/iPad) or **Google Play** (on Android) processes the payment and manages the subscription on your behalf. We never see your payment card details, your Apple or Google account, or your billing address. The store may share an anonymous transaction identifier with us so we can confirm your subscription status.
+- **RevenueCat**, our subscription management provider, receives an anonymous identifier for your device, your subscription status (in trial, active, expired, cancelled), which product you purchased, and your country (derived from the app store). RevenueCat does not see any other content in the app — no prayer rule, no workout history, no bookmarks, no email address.
 
 ### What we do not collect
 
@@ -57,7 +57,8 @@ Obedience Pro is an optional paid subscription that unlocks the Physical side of
 The following third parties hold portions of your data on our behalf, only if you use the related optional feature:
 
 - **Supabase** (https://supabase.com) — hosting and database provider for accounts and cloud backup. Stores your email and authentication record if you create an account, and your most recent backup snapshot if you enable cloud backup. Servers are located in West EU (Ireland). Privacy policy: https://supabase.com/privacy.
-- **Apple** (https://www.apple.com) — payment processor for Obedience Pro subscriptions, when you purchase or start a free trial. We never see your payment details. Apple may share an anonymous transaction identifier with us. Privacy policy: https://www.apple.com/legal/privacy/.
+- **Apple** (https://www.apple.com) — payment processor for Obedience Pro subscriptions on iPhone/iPad, when you purchase or start a free trial. We never see your payment details. Apple may share an anonymous transaction identifier with us. Privacy policy: https://www.apple.com/legal/privacy/.
+- **Google Play** (https://play.google.com) — payment processor for Obedience Pro subscriptions on Android, when you purchase or start a free trial. We never see your payment details. Google may share an anonymous transaction identifier with us. Privacy policy: https://policies.google.com/privacy.
 - **RevenueCat** (https://www.revenuecat.com) — subscription management provider for Obedience Pro. Receives an anonymous device identifier, subscription status, product ID, and country only if you start the free trial or subscribe. RevenueCat is based in the United States. Privacy policy: https://www.revenuecat.com/privacy/.
 
 We do not share your data with any other third party. We do not use advertising networks, analytics SDKs, or data brokers.
@@ -66,7 +67,7 @@ We do not share your data with any other third party. We do not use advertising 
 
 - **Local data on your device:** kept until you delete it from within the app or uninstall the app.
 - **Account and cloud backup data:** kept until you sign out (sign-out keeps the data on the server) or delete your account (which removes both the account record and the backup snapshot).
-- **Subscription history:** retained by Apple and RevenueCat for as long as required by their own policies and applicable law. Cancelling your subscription stops future charges but does not remove past transaction records.
+- **Subscription history:** retained by Apple or Google Play and by RevenueCat for as long as required by their own policies and applicable law. Cancelling your subscription stops future charges but does not remove past transaction records.
 
 ## Your rights and controls
 
@@ -77,7 +78,7 @@ You can:
 - **Manually back up or restore** from Settings → Cloud Backup.
 - **Sign out** of your account, which keeps the snapshot on the server but disconnects your device.
 - **Delete your account**, which removes both the account and the cloud backup snapshot. This is available in Settings → Cloud Backup → Delete Account.
-- **Cancel or manage your subscription** from Settings → Manage Subscription within the app (only visible while subscribed), or from your device's standard subscription management screen (iPhone: Settings → [your Apple ID] → Subscriptions).
+- **Cancel or manage your subscription** from Settings → Manage Subscription within the app (only visible while subscribed), or from your device's standard subscription management screen (iPhone: Settings → [your Apple ID] → Subscriptions; Android: Play Store → profile → Payments & subscriptions → Subscriptions).
 - **Revoke location, notification, or other system permissions** at any time from your device settings.
 - **Request a copy of your data** by contacting obedienceapplication@gmail.com. Because the app stores everything locally, the most complete copy of your data is the one already on your device.
 
